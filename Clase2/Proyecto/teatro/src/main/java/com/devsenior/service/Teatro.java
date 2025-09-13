@@ -9,7 +9,6 @@ public class Teatro {
     private final int FILAS = 10;
     private final int COLUMNAS = 6;
     private Asiento[][] asientos;
-    private Asiento asiento;
 
     public Teatro() {
         asientos = new Asiento[FILAS][COLUMNAS];
