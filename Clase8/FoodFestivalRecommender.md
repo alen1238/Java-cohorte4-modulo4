@@ -1,6 +1,6 @@
 # 🍔 Proyecto: Food Festival Recommender
 
-En este proyecto vamos a crear un programa en **Java** que simule un **festival gastronómico**. 
+En este proyecto vamos a crear un programa en **Java** que modela un **festival gastronómico**. 
 El sistema será capaz de recomendar platos a los visitantes según tres criterios:
 
 1. Su **presupuesto disponible** y la **categoría gastronómica** que prefieren.  
@@ -47,8 +47,8 @@ Implementará la lógica de negocio utilizando **Streams**:
 
 ---
 
-## 🎯 Objetivo de aprendizaje  
-Este proyecto busca que los estudiantes:  
+## Objetivo General
+Este proyecto busca que los estudiantes de Java cohorte 4 al finalizar el proyecto:  
 - Practiquen el diseño en **capas** (modelo, servicio, datos, interfaz).  
 - Apliquen **Streams en Java** para operaciones comunes sobre colecciones: filtrado, ordenamiento, limitación y agrupamiento.  
 - Comprendan el uso de **List<>** como estructura de datos flexible y adecuada para simular bases de datos simples.  
